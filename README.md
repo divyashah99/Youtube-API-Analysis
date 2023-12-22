@@ -11,7 +11,7 @@ The project utilizes the YouTube Data API to retrieve channel and video data.
 
 ### Data Pre-processing
 
-The retrieved data undergoes cleaning and transformation to facilitate analysis. This includes handling NULL values, converting data types, and extracting additional features.
+The retrieved data undergoes cleaning and transformation to facilitate analysis. This includes checking for NULL values, converting data types, and extracting additional features.
 
 ### Exploratory Data Analysis (EDA)
 
@@ -29,3 +29,18 @@ A word cloud is generated from video titles, excluding common English stopwords,
 ### Upload Schedule Analysis
 
 The project includes a bar plot showcasing the distribution of video uploads across different days of the week.
+
+## Quick glance at the results
+
+Best Performing Videos
+
+![Bar_Chart](assets/BarChart.png)
+
+Confusion matrix of gradient boosting classifier.
+
+![Confusion matrix](assets/confusion_matrix.png)
+
+ROC curve of gradient boosting classifier.
+
+![ROC curve](assets/roc.png)
+
