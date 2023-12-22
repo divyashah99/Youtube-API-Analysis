@@ -36,9 +36,9 @@ Best Performing Videos
 
 ![Bar_Chart](assets/BarChart.png)
 
-Confusion matrix of gradient boosting classifier.
+Word Cloud
 
-![Confusion matrix](assets/confusion_matrix.png)
+![Word_Cloud](assets/WordCloud.png)
 
 ROC curve of gradient boosting classifier.
 
