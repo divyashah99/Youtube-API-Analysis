@@ -40,7 +40,7 @@ Word Cloud
 
 ![Word_Cloud](assets/WordCloud.png)
 
-ROC curve of gradient boosting classifier.
+Views vs. likes and comments
 
-![ROC curve](assets/roc.png)
+![Scatter](assets/ScatterPlot.png)
 
