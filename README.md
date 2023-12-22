@@ -5,13 +5,27 @@ This project utilizes the YouTube Data API to gather and analyze statistics for 
 
 ## Project Structure
 
-### Data Collection: 
-The project retrieves channel and video data using the YouTube Data API.
+### Data Collection
 
-Data Pre-processing: The retrieved data undergoes cleaning and transformation to facilitate analysis. This includes handling NULL values, converting data types, and extracting additional features.
+The project utilizes the YouTube Data API to retrieve channel and video data.
 
-Exploratory Data Analysis (EDA): Various visualizations are created to analyze video performance, such as bar plots for best and worst-performing videos, violin plots for view distribution per channel, scatter plots for views vs. likes/comments, and a histogram for video duration.
+### Data Pre-processing
 
-Wordcloud Analysis: A word cloud is generated from video titles, excluding common English stopwords, to visualize frequently occurring words.
+The retrieved data undergoes cleaning and transformation to facilitate analysis. This includes handling NULL values, converting data types, and extracting additional features.
 
-Upload Schedule Analysis: The project includes a bar plot showcasing the distribution of video uploads across different days of the week.
+### Exploratory Data Analysis (EDA)
+
+Various visualizations are created to analyze video performance, including:
+
+- Bar plots for best and worst-performing videos
+- Violin plots for view distribution per channel
+- Scatter plots for views vs. likes/comments
+- Histogram for video duration
+
+### Wordcloud Analysis
+
+A word cloud is generated from video titles, excluding common English stopwords, to visualize frequently occurring words.
+
+### Upload Schedule Analysis
+
+The project includes a bar plot showcasing the distribution of video uploads across different days of the week.
