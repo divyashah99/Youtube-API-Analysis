@@ -36,11 +36,11 @@ Best Performing Videos
 
 ![Bar_Chart](assets/BarChart.png)
 
-Word Cloud
-
-![Word_Cloud](assets/WordCloud.png)
-
 Views vs. likes and comments
 
 ![Scatter](assets/ScatterPlot.png)
+
+Word Cloud
+
+![Word_Cloud](assets/WordCloud.png)
 
